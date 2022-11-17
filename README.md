@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://Pranavsolanki01.github.io/tourWay/"><img src="./pictures/.jpg"></a>
+	<a href="https://Pranavsolanki01.github.io/tourWay.github.io/"></a>
 	<h4>A simple Tourism Website Portfolio which shows travel destinations across various part of Country. This theme is made using Bootstrap features several content sections, a responsive portfolio grid (tourist-places), window modals for each portfolio item, Blogs section and AboutUs Section</h4>
 </div>
 
